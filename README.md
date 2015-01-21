@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/codeandrop/email-existence.svg)](https://travis-ci.org/codeandrop/email-existence)
+
 # email-existence
 
 Checks existence of email addresses
